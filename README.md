@@ -1,4 +1,8 @@
 # POPSeq THe Human STR Sequence Diversity Database v1.0
+
+https://popseq.cvm.ncsu.edu
+
+
 This Repository contains on interactive Sunburst model to view the summary of data using the KRONA utility https://github.com/marbl/Krona/wiki. 
 
 
