@@ -1,4 +1,6 @@
-# POPSeq THe Human STR Sequence Diversity Database v1.0
+![logo](Popseqv1logo.jpg)
+
+# Human STR Sequence Diversity Database v1.0
 
 https://popseq.cvm.ncsu.edu
 
